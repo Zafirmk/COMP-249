@@ -13,6 +13,6 @@ Assignment Solution
     <td><strong>Semester</strong></td><td>Fall 2020</td>
   </tr>
   <tr>
-    <td><strong>Assignment</strong></td><td>Assignment 1 to 4</td>
+    <td><strong>Professor</strong></td><td><a href="https://www.linkedin.com/in/michel-de-champlain-bb17157/">Michel de Champlain</a></td>
   </tr>
 </table>
